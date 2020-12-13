@@ -57,3 +57,47 @@
 > [消除色差(阿贝尔数)与折射望远镜向反射望远镜的演变](https://zhuanlan.zhihu.com/p/78390142)
 >
 > [对比折射镜头与反射镜头/折反镜头](https://www.zhihu.com/question/24491279)
+
+
+
+
+
+#### 1x04 Appendix(实验模拟结果)
+
+镜1：单片PC镜
+
+![image-20201212201259698](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212201259698.png)
+
+
+
+镜2：单片CC镜
+
+
+
+镜3：单片CP镜
+
+![image-20201212195158963](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212195158963.png)
+
+
+
+镜组1：
+
+![image-20201212203715497](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212203715497.png)
+
+
+
+镜组2：
+
+![image-20201212205332450](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212205332450.png)
+
+
+
+高斯结构：
+
+![image-20201212214237265](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212214237265.png)
+
+
+
+镜组4：
+
+![image-20201212195327791](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212195327791.png)
