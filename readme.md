@@ -64,31 +64,39 @@
 
 #### 1x04 Appendix(实验模拟结果)
 
+![image-20201216085201877](D:\1.Projects\Projet-2-Lens\README.assets\image-20201216085201877.png)
+
+![image-20201216085408426](D:\1.Projects\Projet-2-Lens\README.assets\image-20201216085408426.png)
+
 镜1：单片PC镜
 
 ![image-20201212201259698](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212201259698.png)
 
-
+![image-20201216003131486](D:\1.Projects\Projet-2-Lens\README.assets\image-20201216003131486.png)
 
 镜2：单片CC镜
 
-
+![image-20201216003657291](D:\1.Projects\Projet-2-Lens\README.assets\image-20201216003657291.png)
 
 镜3：单片CP镜
 
 ![image-20201212195158963](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212195158963.png)
 
-
+![image-20201216003035436](D:\1.Projects\Projet-2-Lens\README.assets\image-20201216003035436.png)
 
 镜组1：
 
 ![image-20201212203715497](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212203715497.png)
 
-
+![image-20201216002916925](D:\1.Projects\Projet-2-Lens\README.assets\image-20201216002916925.png)
 
 镜组2：
 
 ![image-20201212205332450](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212205332450.png)
+
+![image-20201216002739021](D:\1.Projects\Projet-2-Lens\README.assets\image-20201216002739021.png)
+
+镜组3：
 
 
 
@@ -96,8 +104,12 @@
 
 ![image-20201212214237265](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212214237265.png)
 
-
+![image-20201216083556183](D:\1.Projects\Projet-2-Lens\README.assets\image-20201216083556183.png)
 
 镜组4：
 
 ![image-20201212195327791](D:\1.Projects\Projet-2-Lens\README.assets\image-20201212195327791.png)
+
+![image-20201216011151730](D:\1.Projects\Projet-2-Lens\README.assets\image-20201216011151730.png)
+
+![image-20201216082544035](D:\1.Projects\Projet-2-Lens\README.assets\image-20201216082544035.png)
